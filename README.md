@@ -20,7 +20,7 @@ Die Logdaten aus dem Versionsverwaltungssystem Git steht in Form der Textdatei `
 
 ![Git-Auszug](./images/01_screenshot_gitinfo.png)
 
-Sollte die kleine algorithmische Übung nicht umsetzbar sein, stehen die Daten auch als csv-Datei (commits.csv) bereit.
+Sollte die kleine algorithmische Übung nicht umsetzbar sein, stehen die Daten auch als csv-Datei (`commits.csv`) bereit.
 
 ![Git-Auszug](./images/02_screenshot_console_1.png)
 
