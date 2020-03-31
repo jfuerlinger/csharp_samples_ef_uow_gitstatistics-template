@@ -41,3 +41,5 @@ Kontrollieren Sie die entstehenden Queries mit Hilfe eines Loggers.
 ![Console 2](./images/03_screenshot_console_2.png)
 
 ![Console 3](./images/04_screenshot_console_3.png)
+
+*Hinweis*: Die Screenshots beziehen sich auf die Commits aus der Datei `commits.csv`. Die Commits in der Datei `commits.txt` weichen geringfügig ab.
